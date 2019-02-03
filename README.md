@@ -4,10 +4,13 @@
 + Hostname: [trentham3269.com](http://trentham3269.com)
 + SSH port: 2200
 
-## Software Installed
+## Dependencies
++ [Ubuntu 16.04](https://www.ubuntu.com/)
++ [Python3](https://www.python.org/downloads/)
 + [NGINX](https://www.nginx.com/)
 + [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/)
-+ [PostgreSQL](https://www.postgresql.org/) 
++ [PostgreSQL](https://www.postgresql.org/)
++ [Git](https://git-scm.com/)
 
 ## Handy Resources
 + [Ubuntu 16.04 setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
