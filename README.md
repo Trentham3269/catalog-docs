@@ -38,9 +38,9 @@ git clone https://github.com/Trentham3269/catalog.git && cd catalog
 ```
 pip install uwsgi flask
 ```
-+ Create [wsgi.py](./wsgi.py) entry point
-+ Add [catalog.ini](./catalog.ini) configuration
-+ Create [catalog.service](./catalog.service) systemd service
++ Create ![wsgi.py](./wsgi.py) entry point
++ Add ![catalog.ini](./catalog.ini) configuration
++ Create ![catalog.service](./catalog.service) systemd service
 ```
 sudo mv catalog.service /etc/systemd/system/
 sudo systemctl start catalog
